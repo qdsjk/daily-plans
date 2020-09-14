@@ -1,6 +1,42 @@
 
 * [ ] Java SE 笔记看完
+    未完成，看了13/24。明天继续。
 * [ ] on Java 8 复习前5章，看第六章第七章
-* [ ] CS61b 第一课看完
-* [ ] LeetCode 剑指 offer 两道
-* [x] Java 集合 ArrayList 博客
+    复习了前五章。第六章已经耗费了周五和今天的一个上午，决定放弃。暂时先不看On java 8, 把培训班的Java课过一遍再说。
+* [x] CS61b 第一课看完
+    * S2 = new String (s) does five things. 
+    * Strings are immutable. 
+    * How do we construct a BufferedReader. 
+    * Why don't we just have one class that takes all that bits from keyboard and composes lines of text?
+* [x] LeetCode 剑指 offer 两道 
+    完成了四道 medium。
+    *  [剑指64 medium](https://leetcode-cn.com/problems/qiu-12n-lcof/) 简单的递归, 没什么好说的
+    *  [144. 二叉树的前序遍历 —— 迭代方式遍历 medium](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) 手动模拟了二叉树的遍历过程，对为什么使用`栈`有了更清晰的认识。
+    
+    *  [145. 二叉树的后序遍历 —— 迭代方式遍历 medium](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) 同上，不过要输出 list 的翻转。 Java 中使用 `void Collections.reverse()`翻转列表。
+    *  [94. 二叉树的中序遍历 —— 迭代方式遍历 medium](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) 和上面两道不同，要重新模拟遍历过程。和前序遍历对比之后，对`入栈`的时机更有把握。
+    这次应该很久都不会忘了。
+
+还看到一篇思路很新奇题解 [颜色标记法 —— 一种通用且简明的树遍历方法](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/yan-se-biao-ji-fa-yi-chong-tong-yong-qie-jian-ming/)，暂时没有时间看。
+明天想继续做树的题目，例如树的DFS，BFS，N叉树的前中后序遍历。
+* [x] Java 集合 ArrayList 博客 
+    学习了ArrayList的源码，在CSDN上看了两篇很好的博客，学习并总结，产出一篇博客。
+    >ArrayList
+	>* 简介
+	>* 方法
+		* 成员变量
+		* 构造方法
+		* 成员方法
+			* 1.添加元素
+			* 2.手动扩容
+			* 3.扩容
+			* 4.查询、修改 O(1)
+			* 5.删除 ☆
+			* 6.查找
+			* 7.转换成数组
+	>* ArrayList遍历方式
+	>	* 迭代器遍历
+	>	* 随机访问
+	>	* for循环遍历
+	>* 同步
+
