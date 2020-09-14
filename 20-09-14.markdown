@@ -1,0 +1,5 @@
+
+* [ ] Java SE笔记看完
+* [ ] on Java 8 复习前5章，看第六章第七章
+* [ ] CS61b 第一课看完
+* [ ] LeetCode 剑指offer两道
