@@ -1,5 +1,6 @@
 
-* [ ] Java SE笔记看完
+* [ ] Java SE 笔记看完
 * [ ] on Java 8 复习前5章，看第六章第七章
 * [ ] CS61b 第一课看完
-* [ ] LeetCode 剑指offer两道
+* [ ] LeetCode 剑指 offer 两道
+* [x] Java 集合 ArrayList 博客
