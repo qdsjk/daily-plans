@@ -9,7 +9,7 @@
 - 9.30 200左右
 # **2. leetcode第100题第101题** #
 - [https://leetcode-cn.com/problems/same-tree/](https://leetcode-cn.com/problems/same-tree/ "100")树的遍历，干递归就完事了
-- [https://leetcode-cn.com/problems/symmetric-tree/](https://leetcode-cn.com/problems/symmetric-tree/)中序遍历能搞，但是我不会写？还是菜的一批
+- [ https://leetcode-cn.com/problems/symmetric-tree/ ] （https://leetcode-cn.com/problems/symmetric-tree/）知道用递归且算法过程，但是自己包围一个思维固化模式，可以重新创造一个函数帮助完成递归归算（数的根的子树的递归归运算）。
 
 # **3. Java基础语法** #
 	9.27
